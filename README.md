@@ -6,11 +6,10 @@
 🎓 &nbsp;Actualmente Estoy formandome profesionalmente en SENA como técnologo en análisis y desarrollo de software.\
 🌱 &nbsp;Siempre que puedo me gusta investigar de temas relacionados a la tecnología, Arte y Cine.\
 ✍️ &nbsp;En mis tiempos libres me gusta practicar algo de dibujo, Compartir tiempo con mis mascotas y escuchar musica.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;Si quieres ponerte en contacto conmigo puedes escribirme un mensaje a mi correo electrónico ortizwilfer503@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Visita mi [Portafolio Personal](https://www.adityavsingh.com/resume.html) Para mayor detalle de mi formación, proyectos e intereses. ¡Acepto cualquier sugerencia y las aprecio mucho!
+📄 &nbsp;Visita mi [Portafolio Personal](wilfer.adso.pro) Para mayor detalle de mi formación, proyectos e intereses. ¡Acepto cualquier sugerencia y las aprecio mucho!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" height="400" align="right"/>
 
 ### 🛠 &nbsp;Stack Tecnológico
 
