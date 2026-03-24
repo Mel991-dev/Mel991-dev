@@ -3,10 +3,15 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
 💡 &nbsp;Soy Desarrollador de software y Analista Inclinado por la arquitectura de software y el desarrollo Frontend.\
+
 🎓 &nbsp;Actualmente Estoy formandome profesionalmente en SENA como técnologo en análisis y desarrollo de software.\
+
 🌱 &nbsp;Siempre que puedo me gusta investigar de temas relacionados a la tecnología, Arte y Cine.\
+
 ✍️ &nbsp;En mis tiempos libres me gusta practicar algo de dibujo, Compartir tiempo con mis mascotas y escuchar musica.\
+
 ✉️ &nbsp;Si quieres ponerte en contacto conmigo puedes escribirme un mensaje a mi correo electrónico ortizwilfer503@gmail.com! Estaré atento a cualquier mensaje.\
+
 📄 &nbsp;Visita mi [Portafolio Personal](https://wilfer.adso.pro) Para mayor detalle de mi formación, proyectos e intereses. ¡Acepto cualquier sugerencia y las aprecio mucho!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" height="400" align="right"/>
