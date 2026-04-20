@@ -14,7 +14,7 @@
 
 📄 &nbsp;Visita mi [Portafolio Personal](https://wilfer.adso.pro) Para mayor detalle de mi formación, proyectos e intereses. ¡Acepto cualquier sugerencia y las aprecio mucho!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" height="auto" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350" height="auto" align="right"/>
 
 ### 🛠 &nbsp;Stack Tecnológico
 
